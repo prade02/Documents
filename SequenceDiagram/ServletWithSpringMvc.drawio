@@ -1,1 +1,361 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T10:30:32.266Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ArzlmRy7pNJ-TRDWjcQb" version="16.4.8" type="google"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-28T10:41:26.523Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="JvVFJVD5gZs1M61Drix0" version="16.4.8" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Basic">
+    <mxGraphModel dx="3366" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="Tomcat&#39;s &#xa;Servlet Container" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-977" y="70" width="100" height="1610" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=12;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
+          <mxGeometry x="45" y="70" width="10" height="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-18" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;entryX=0.9;entryY=0.097;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.2;exitY=0.042;exitDx=0;exitDy=0;exitPerimeter=0;" parent="3nuBFxr9cyL0pnOWT2aG-1" source="3nuBFxr9cyL0pnOWT2aG-2" target="3nuBFxr9cyL0pnOWT2aG-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="118" y="131" as="sourcePoint" />
+            <mxPoint x="118" y="211" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="208" y="131" />
+              <mxPoint x="284" y="171" />
+              <mxPoint x="208" y="211" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-19" value="instantiate SpringServletContainerInitializer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="gR5M2WzqwmNhwRyIQQC9-18" vertex="1" connectable="0">
+          <mxGeometry x="-0.025" y="1" relative="1" as="geometry">
+            <mxPoint x="51" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="web app&#39;s &#xa;classpath" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-509" y="70" width="100" height="1610" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=12;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
+          <mxGeometry x="45" y="80" width="10" height="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;fontSize=14;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-2" target="3nuBFxr9cyL0pnOWT2aG-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-444" y="150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-9" value="Auto detect ServletContainerInitializer implementation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="3nuBFxr9cyL0pnOWT2aG-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.025" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-9" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.9;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;exitX=-0.1;exitY=0.021;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-6" target="3nuBFxr9cyL0pnOWT2aG-2" edge="1">
+          <mxGeometry x="-0.5696" y="-10" relative="1" as="geometry">
+            <mxPoint x="-489" y="179" as="sourcePoint" />
+            <mxPoint x="-865" y="181.20000000000005" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-7" value="SpringServletContainerInitializer implementation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="3nuBFxr9cyL0pnOWT2aG-9" vertex="1" connectable="0">
+          <mxGeometry x="0.1038" y="-1" relative="1" as="geometry">
+            <mxPoint x="16" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-12" value="SpringServletContainerInitializer" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-319" y="70" width="170" height="1610" as="geometry" />
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-13" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=12;" parent="gR5M2WzqwmNhwRyIQQC9-12" vertex="1">
+          <mxGeometry x="80" y="80" width="10" height="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-23" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1;exitY=0.173;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;entryX=0.1;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-922" y="406.5799999999999" as="sourcePoint" />
+            <mxPoint x="-238" y="406.1500000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-489" y="406.03999999999996" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-24" value="invoke: SpringServletContainerInitializer.onStartup(Set&amp;lt;WebApplicationInitializer&amp;gt;, servletContext)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="gR5M2WzqwmNhwRyIQQC9-23" vertex="1" connectable="0">
+          <mxGeometry x="-0.025" y="1" relative="1" as="geometry">
+            <mxPoint x="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-27" value="All custom WebApplicationInitializer&#39;s" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="140" y="70" width="200" height="1610" as="geometry" />
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-28" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=12;" parent="gR5M2WzqwmNhwRyIQQC9-27" vertex="1">
+          <mxGeometry x="95" y="80" width="10" height="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-34" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;" parent="gR5M2WzqwmNhwRyIQQC9-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="106" y="400" as="sourcePoint" />
+            <mxPoint x="106" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="195" y="400" />
+              <mxPoint x="270" y="450" />
+              <mxPoint x="195" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-35" value="&lt;div style=&quot;text-align: justify ; font-size: 14px&quot;&gt;This is where your web application configures servletContext.&lt;/div&gt;&lt;div style=&quot;text-align: justify ; font-size: 14px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 14px&quot;&gt;Create DispatcherServlet and add it to servletContext&lt;/span&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="gR5M2WzqwmNhwRyIQQC9-34" vertex="1" connectable="0">
+          <mxGeometry x="-0.025" y="1" relative="1" as="geometry">
+            <mxPoint x="44" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-38" value="HttpServlet&#xa;    HttpServletBean&#xa;        FrameworkServlet&#xa;            DispatcherServlet" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;align=left;size=60;labelBackgroundColor=default;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="560" y="70" width="200" height="1610" as="geometry" />
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-39" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=12;" parent="gR5M2WzqwmNhwRyIQQC9-38" vertex="1">
+          <mxGeometry x="95" y="80" width="10" height="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-55" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;exitX=1.2;exitY=0.551;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.9;entryY=0.607;entryDx=0;entryDy=0;entryPerimeter=0;" parent="gR5M2WzqwmNhwRyIQQC9-38" source="gR5M2WzqwmNhwRyIQQC9-39" target="gR5M2WzqwmNhwRyIQQC9-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="880" as="sourcePoint" />
+            <mxPoint x="120" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="195" y="880" />
+              <mxPoint x="271" y="920" />
+              <mxPoint x="195" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-56" value="&lt;div style=&quot;text-align: justify; font-size: 14px;&quot;&gt;invoke: HttpServlet.service(HttpServletRequest, HttpServletResponse)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="gR5M2WzqwmNhwRyIQQC9-55" vertex="1" connectable="0">
+          <mxGeometry x="-0.025" y="1" relative="1" as="geometry">
+            <mxPoint x="72" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-59" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;exitX=1;exitY=0.705;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.2;entryY=0.758;entryDx=0;entryDy=0;entryPerimeter=0;" parent="gR5M2WzqwmNhwRyIQQC9-38" source="gR5M2WzqwmNhwRyIQQC9-39" target="gR5M2WzqwmNhwRyIQQC9-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="1100" as="sourcePoint" />
+            <mxPoint x="120" y="1180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="1100" />
+              <mxPoint x="266" y="1140" />
+              <mxPoint x="190" y="1180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-60" value="&lt;div style=&quot;text-align: justify; font-size: 14px;&quot;&gt;invoke: FrameworkServlet.processRequest(HttpServletRequest, HttpServletResponse)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="gR5M2WzqwmNhwRyIQQC9-59" vertex="1" connectable="0">
+          <mxGeometry x="-0.025" y="1" relative="1" as="geometry">
+            <mxPoint x="128" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-61" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;exitX=1.1;exitY=0.78;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.834;entryDx=0;entryDy=0;entryPerimeter=0;" parent="gR5M2WzqwmNhwRyIQQC9-38" source="gR5M2WzqwmNhwRyIQQC9-39" target="gR5M2WzqwmNhwRyIQQC9-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="1210" as="sourcePoint" />
+            <mxPoint x="120" y="1290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="1210" />
+              <mxPoint x="266" y="1250" />
+              <mxPoint x="190" y="1290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-62" value="&lt;div style=&quot;text-align: justify; font-size: 14px;&quot;&gt;invoke: DispatcherServlet.doService(HttpServletRequest, HttpServletResponse)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="gR5M2WzqwmNhwRyIQQC9-61" vertex="1" connectable="0">
+          <mxGeometry x="-0.025" y="1" relative="1" as="geometry">
+            <mxPoint x="105" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-44" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;exitX=0.9;exitY=0.352;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.1;entryY=0.406;entryDx=0;entryDy=0;entryPerimeter=0;" parent="gR5M2WzqwmNhwRyIQQC9-38" source="gR5M2WzqwmNhwRyIQQC9-39" target="gR5M2WzqwmNhwRyIQQC9-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="590" as="sourcePoint" />
+            <mxPoint x="110" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="590" />
+              <mxPoint x="276" y="630" />
+              <mxPoint x="200" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-45" value="&lt;div style=&quot;text-align: justify; font-size: 14px;&quot;&gt;FrameworkServlet.initServletBean()&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 14px;&quot;&gt;Place where ApplicationContext is initialized - Spring Container is created&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="gR5M2WzqwmNhwRyIQQC9-44" vertex="1" connectable="0">
+          <mxGeometry x="-0.025" y="1" relative="1" as="geometry">
+            <mxPoint x="78" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-57" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;exitX=0.9;exitY=0.628;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.2;entryY=0.683;entryDx=0;entryDy=0;entryPerimeter=0;" parent="gR5M2WzqwmNhwRyIQQC9-38" source="gR5M2WzqwmNhwRyIQQC9-39" target="gR5M2WzqwmNhwRyIQQC9-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="990" as="sourcePoint" />
+            <mxPoint x="120" y="1070" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="990" />
+              <mxPoint x="266" y="1030" />
+              <mxPoint x="190" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-58" value="&lt;div style=&quot;text-align: justify; font-size: 14px;&quot;&gt;invoke: FrameworkServlet.doGet(HttpServletRequest, HttpServletResponse)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="gR5M2WzqwmNhwRyIQQC9-57" vertex="1" connectable="0">
+          <mxGeometry x="-0.025" y="1" relative="1" as="geometry">
+            <mxPoint x="98" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-63" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;exitX=1;exitY=0.855;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.4;entryY=0.91;entryDx=0;entryDy=0;entryPerimeter=0;" parent="gR5M2WzqwmNhwRyIQQC9-38" source="gR5M2WzqwmNhwRyIQQC9-39" target="gR5M2WzqwmNhwRyIQQC9-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="1320" as="sourcePoint" />
+            <mxPoint x="120" y="1400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="1320" />
+              <mxPoint x="266" y="1360" />
+              <mxPoint x="190" y="1400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-64" value="&lt;div style=&quot;text-align: justify; font-size: 14px;&quot;&gt;invoke: DispatcherServlet.doDispatch(HttpServletRequest, HttpServletResponse)&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 14px;&quot;&gt;This is the method that summons respective handler for the Get request(invokes respective Controller)&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 14px;&quot;&gt;Finally it updates the HttpServletResponse object&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="gR5M2WzqwmNhwRyIQQC9-63" vertex="1" connectable="0">
+          <mxGeometry x="-0.025" y="1" relative="1" as="geometry">
+            <mxPoint x="181" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-46" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;exitX=0;exitY=0.436;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.9;entryY=0.438;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="gR5M2WzqwmNhwRyIQQC9-39" target="3nuBFxr9cyL0pnOWT2aG-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="781" as="sourcePoint" />
+            <mxPoint x="-710" y="781" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="184.5" y="781.04" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-47" value="init() complete" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="gR5M2WzqwmNhwRyIQQC9-46" vertex="1" connectable="0">
+          <mxGeometry x="-0.025" y="1" relative="1" as="geometry">
+            <mxPoint x="-143" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-48" value="" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;fontSize=14;exitX=0;exitY=0.467;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-974" y="820" as="sourcePoint" />
+            <mxPoint x="-1149" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-49" value="Tomcat server started" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="gR5M2WzqwmNhwRyIQQC9-48" vertex="1" connectable="0">
+          <mxGeometry x="-0.4316" y="1" relative="1" as="geometry">
+            <mxPoint x="-50" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-53" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;exitX=1.1;exitY=0.542;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-680" y="930" as="sourcePoint" />
+            <mxPoint x="660" y="930" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-65.5" y="930.04" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-54" value="invoke: HttpServlet.service(ServletRequest, ServletResponse)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="gR5M2WzqwmNhwRyIQQC9-53" vertex="1" connectable="0">
+          <mxGeometry x="-0.025" y="1" relative="1" as="geometry">
+            <mxPoint x="-370" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-65" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;exitX=0;exitY=0.932;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.9;entryY=0.932;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="gR5M2WzqwmNhwRyIQQC9-39" target="3nuBFxr9cyL0pnOWT2aG-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="1500" as="sourcePoint" />
+            <mxPoint x="-680" y="1500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="185" y="1500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-66" value="httpServletResponse returned" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="gR5M2WzqwmNhwRyIQQC9-65" vertex="1" connectable="0">
+          <mxGeometry x="-0.025" y="1" relative="1" as="geometry">
+            <mxPoint x="-143" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-50" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;entryX=0.1;entryY=0.508;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="3nuBFxr9cyL0pnOWT2aG-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1149" y="882" as="sourcePoint" />
+            <mxPoint x="-959" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-52" value="Incoming HTTP GET request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="gR5M2WzqwmNhwRyIQQC9-50" vertex="1" connectable="0">
+          <mxGeometry x="-0.1889" y="-2" relative="1" as="geometry">
+            <mxPoint x="14" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-42" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;exitX=0.9;exitY=0.336;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=0.332;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-2" target="gR5M2WzqwmNhwRyIQQC9-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-720" y="630" as="sourcePoint" />
+            <mxPoint x="640" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-125.5" y="630.04" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-43" value="Initialize servlet. Invoke: HttpServletBean.init()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="gR5M2WzqwmNhwRyIQQC9-42" vertex="1" connectable="0">
+          <mxGeometry x="-0.025" y="1" relative="1" as="geometry">
+            <mxPoint x="-333" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-36" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;exitX=0.1;exitY=0.29;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.2;entryY=0.295;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="gR5M2WzqwmNhwRyIQQC9-28" target="3nuBFxr9cyL0pnOWT2aG-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="229" y="570" as="sourcePoint" />
+            <mxPoint x="-671.5" y="570.04" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-207" y="570.04" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-37" value="DispatcherServlet registered with Servlet Container" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="gR5M2WzqwmNhwRyIQQC9-36" vertex="1" connectable="0">
+          <mxGeometry x="-0.025" y="1" relative="1" as="geometry">
+            <mxPoint x="-101" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-29" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;entryX=0;entryY=0.201;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.1;exitY=0.201;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="gR5M2WzqwmNhwRyIQQC9-13" target="gR5M2WzqwmNhwRyIQQC9-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30" y="439" as="sourcePoint" />
+            <mxPoint x="220" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-31" value="invoke: WebApplicationInitializer.onStartup(servletContext)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="gR5M2WzqwmNhwRyIQQC9-29" vertex="1" connectable="0">
+          <mxGeometry x="-0.0922" y="-1" relative="1" as="geometry">
+            <mxPoint x="5" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-25" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.9;entryY=0.147;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;exitX=0;exitY=0.141;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-6" target="3nuBFxr9cyL0pnOWT2aG-2" edge="1">
+          <mxGeometry x="-0.5696" y="-10" relative="1" as="geometry">
+            <mxPoint x="-479" y="355" as="sourcePoint" />
+            <mxPoint x="-865" y="354.00000000000006" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-26" value="Set of WebApplicationInitializer implementations" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="gR5M2WzqwmNhwRyIQQC9-25" vertex="1" connectable="0">
+          <mxGeometry x="0.1038" y="-1" relative="1" as="geometry">
+            <mxPoint x="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-21" value="" style="verticalAlign=bottom;endArrow=block;entryX=0.1;entryY=0.117;shadow=0;strokeWidth=1;fontSize=14;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.121;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-2" target="3nuBFxr9cyL0pnOWT2aG-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-909" y="320" as="sourcePoint" />
+            <mxPoint x="-522" y="318.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-22" value="Scan for WebApplicationInitializer implementation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="gR5M2WzqwmNhwRyIQQC9-21" vertex="1" connectable="0">
+          <mxGeometry x="-0.025" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-67" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;exitX=0;exitY=0.953;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-959" y="1530" as="sourcePoint" />
+            <mxPoint x="-1139" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-68" value="return REST response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="gR5M2WzqwmNhwRyIQQC9-67" vertex="1" connectable="0">
+          <mxGeometry x="-0.1889" y="-2" relative="1" as="geometry">
+            <mxPoint x="-17" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-3" value="" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;fontSize=14;entryX=0.2;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="3nuBFxr9cyL0pnOWT2aG-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1149" y="140" as="sourcePoint" />
+            <mxPoint x="-1014" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-16" value="Start Tomcat server" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="3nuBFxr9cyL0pnOWT2aG-3" vertex="1" connectable="0">
+          <mxGeometry x="-0.4316" y="1" relative="1" as="geometry">
+            <mxPoint x="38" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-69" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;i&gt;Developer should have a custom implementation - at least one.&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=14;align=left;" parent="1" vertex="1">
+          <mxGeometry x="270" y="140" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-70" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;i&gt;This is a default implementation of ServletContainerInitializer that ships with Spring MVC.&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=14;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="140" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gR5M2WzqwmNhwRyIQQC9-71" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;i&gt;DispatcherServlet is the FrontController which is going to intercept all incoming HTTP requests and delegate it to respective handler(Controller).&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=14;align=left;" parent="1" vertex="1">
+          <mxGeometry x="706" y="160" width="180" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
